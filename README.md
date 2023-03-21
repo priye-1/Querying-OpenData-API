@@ -13,7 +13,7 @@ Python script tool that can be used to query the [GovData.de](https://www.govdat
 - Clone repository with HTTPS
 
     ```bash
-     https://github.com/priye-1/REST-API-consumption.git
+     https://github.com/priye-1/Querying-OpenData-API.git
     ```
 
 - Setup virtual environment with  python venv
